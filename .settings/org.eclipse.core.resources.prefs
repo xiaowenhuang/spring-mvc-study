@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/imooc/mvcdemo/controller/CourseController.java=GBK
+encoding//src/main/java/com/imooc/mvcdemo/controller/HelloMvcController.java=GBK
+encoding//src/main/java/com/imooc/mvcdemo/model/Chapter.java=GBK
+encoding//src/main/java/com/imooc/mvcdemo/model/Course.java=GBK
+encoding//src/main/java/com/imooc/mvcdemo/service/CourseService.java=GBK
+encoding//src/main/java/com/imooc/mvcdemo/service/impl/CourseServiceImpl.java=GBK
